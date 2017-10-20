@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October, 20, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Cellina Danvers)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment aided us in learning how to utilize options with else/if)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://csd15.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. else/if statements
+2. another example of how to use getElementById
+3. how to set/declare variables correctly
 
